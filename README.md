@@ -1,7 +1,15 @@
 <center><h1>Tiny Server</h1></center>
 <center><h3>is a lightweight Paper plugin that starts a simple built-in HTTP server directly from your Minecraft server. Perfect for custom dashboards, status pages, resource hosting, and more — all from inside your plugin folder!</h3></center>
-Aviable on <a href="https://modrinth.com/plugin/tiny-server"><img src="https://img.shields.io/badge/dynamic/json?color=158000&label=downloads&prefix=+%20&query=downloads&url=https://api.modrinth.com/v2/project/zfCCoCH5&logo=modrinth"></a>
-
+Available on:
+<p>
+-   <a href="https://modrinth.com/plugin/tiny-server">
+    <img src="https://img.shields.io/badge/dynamic/json?color=158000&label=downloads&prefix=+%20&query=downloads&url=https://api.modrinth.com/v2/project/zfCCoCH5&logo=modrinth" alt="Modrinth Downloads">
+  </a>
+  <br>
+-   <a href="https://www.spigotmc.org/resources/your-plugin-slug.00000/">
+    <img src="https://img.shields.io/badge/SpigotMC-Download-orange?logo=spigotmc&style=flat" alt="SpigotMC">
+  </a>
+</p>
 <hr>
 
 `🔧 Features`
