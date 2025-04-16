@@ -1,0 +1,5 @@
+name: TinyServer
+version: '${version}'
+main: ru.andrewzex.tinyServer.TinyServer
+api-version: '1.21'
+authors: [ THDev ]
