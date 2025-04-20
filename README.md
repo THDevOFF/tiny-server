@@ -41,6 +41,7 @@ Available on:
 ```yml
 ip: 0.0.0.0
 port: 25984
+laanguage: en
 ```
 
 `💡 Use Cases`
