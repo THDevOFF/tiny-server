@@ -1,0 +1,5 @@
+prefix: "§7[§aTinyServer§7] "
+no_permission: "§cYou do not have permission to use this command."
+reloaded: "§aConfiguration and language reloaded!"
+server_on: "§aWeb server started."
+server_off: "§eWeb server stopped."

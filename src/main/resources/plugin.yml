@@ -3,3 +3,12 @@ version: '${version}'
 main: ru.andrewzex.tinyServer.TinyServer
 api-version: '1.21'
 authors: [ THDev ]
+commands:
+  tinyserver:
+    description: Control the TinyServer plugin
+    usage: /tinyserver <reload|on|off>
+    permission: tinyserver.admin
+permissions:
+  tinyserver.admin:
+    description: Allows using TinyServer commands
+    default: op
